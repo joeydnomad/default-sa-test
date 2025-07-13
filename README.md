@@ -1,6 +1,7 @@
 # Logs
 
 - `firebase deploy --only "functions:testGroup" --project default-sa-test-90b15`
+- `firebase functions:delete testGroup --project default-sa-test-90b15`
 - `638315697811-compute@developer.gserviceaccount.com`
 - `102910012728266816444`
 - `default-sa-test-90b15-fbfd67745aa7.json`
